@@ -8,8 +8,7 @@ Wall Street Jarvis (WSJ) is a revolutionary chatbot solution that enables you to
 
 ## Compoenets Used
 !<img width="971" alt="components" src="https://github.com/aku019/Wall-Street-Jarvis/assets/39730533/91b81163-e8c4-4cd2-b1aa-9dfd95dac628">
-[Alt![Uploading components.png…]()
- text](resources/components.png?raw=true "Components")
+
 
 - Broker Apis: Used Alpaca Java API's([LINK](https://github.com/Petersoj/alpaca-java))
 
@@ -25,8 +24,8 @@ Wall Street Jarvis (WSJ) is a revolutionary chatbot solution that enables you to
 - Customer support via Agent Dashboard
 
 ## Sequence Diagram
+<img width="850" alt="sequence" src="https://github.com/aku019/Wall-Street-Jarvis/assets/39730533/8c4e5e64-5d45-435e-b0c7-4b626f6c333c">
 
-![Alt text](resources/sequence.png?raw=true "Sequence")
 
 ## Business Impact
 
