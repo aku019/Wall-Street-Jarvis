@@ -3,7 +3,7 @@
 Bot to provide enriched CX for your stock investment journey
 
 
-## Demo
+## Product Demo
 
 Watch it here -  [LINK](https://drive.google.com/file/d/1nLbQPL0C3-DSdJ36ALgd97sVrmte0NwF/view)
 
