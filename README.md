@@ -7,7 +7,8 @@ Bot to provide enriched CX for your stock investment journey
 Wall Street Jarvis (WSJ) is a revolutionary chatbot solution that enables you to perform trading activities, check the price of assets, and view your Profit/Loss statement effortlessly on your favorite messaging app, WhatsApp. With WSJ, you no longer need to log in to a complicated trading platform or constantly monitor the stock market on multiple devices.
 
 ## Compoenets Used
-![Alt![Uploading components.png…]()
+!<img width="971" alt="components" src="https://github.com/aku019/Wall-Street-Jarvis/assets/39730533/91b81163-e8c4-4cd2-b1aa-9dfd95dac628">
+[Alt![Uploading components.png…]()
  text](resources/components.png?raw=true "Components")
 
 - Broker Apis: Used Alpaca Java API's([LINK](https://github.com/Petersoj/alpaca-java))
