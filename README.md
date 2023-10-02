@@ -83,3 +83,8 @@ Wall Street Jarvis (WSJ) is a revolutionary chatbot solution that enables you to
 - Provide options to place different types of orders like stop loss,market order etc.
 - Designing a CSAT flow 
 - Adding feature to invest in Mutual Funds and other feasible invest instruments
+
+  ## Results :) 
+
+  ![instru](https://github.com/aku019/Wall-Street-Jarvis/assets/39730533/b042cf74-366d-427a-afef-c49395ee40d4)
+
